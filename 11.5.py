@@ -57,7 +57,7 @@ else :
 if inh == "y" or "ب" :
     print("ﺎﻤﺷ ﺯﺍ ﺮﻜﺸﺗﺎﺑ ﺪﺷ ﺖﺒﺛ ﺖﯿﻘﻓﻮﻣ ﺎﺑ")
     print(c156)
-    print("Developed by Armin Alikhani Copyright © 2024 ViraT Information Technology Co. Some Rights Reserved")
+    print("Developed by Armin Alikhani Copyright © 2024 ViraT Information Technology Co. All Rights Don't Reserved")
     print(c156)
 elif inh == "n" or "خ" :
     print("ﺪﯿﻨﻛ ﺯﺎﺑ ،ﻩﺭﺎﺑﻭﺩ ﺍﺭ ﻪﻣﺎﻧﺮﺑ ،ﺩﺪﺠﻣ ﺵﻼﺗ ىﺍﺮﺑ ،ﺪﺷ ﺪﯿﻫﺍﻮﺧ ﺝﺭﺎﺧ ﻪﻣﺎﻧﺮﺑ ﺯﺍ")
